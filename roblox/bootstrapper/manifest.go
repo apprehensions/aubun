@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/vinegarhq/aubun/roblox"
-	"github.com/vinegarhq/aubun/util"
+	"github.com/vinegarhq/vinegar/roblox"
+	"github.com/vinegarhq/vinegar/util"
 )
 
 const ManifestSuffix = "-rbxPkgManifest.txt"
